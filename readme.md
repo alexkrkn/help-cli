@@ -8,6 +8,10 @@ You enter a description of what you want to accomplish, and it will use GPT to g
 
 It is open source, and uses your own OpenAI key.
 
+[Video](https://youtu.be/pOda6TDBqcY)
+
+[Blog Post](https://www.undefinedapps.com/post/use-chatgpt-ffmpeg-cli-commands-nodejs)
+
 ## Install
 
 `$ npm i -g help-cli`
